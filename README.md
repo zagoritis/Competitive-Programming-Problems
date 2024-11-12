@@ -5,9 +5,9 @@ Info about the problems:
 
 - [Codeforces D. Tree and Queries.cpp](Codeforces%20D.%20Tree%20and%20Queries.cpp): Depth First Search (DFS), Tree Linearization, Square Root Decomposition. Problem link: [https://codeforces.com/problemset/problem/375/D](https://codeforces.com/problemset/problem/375/D)
 
-- [Codeforces E. Minimum spanning tree for each edge.cpp](Codeforces%20E.%20Minimum%20spanning%20tree%20for%20each%20edge.cpp): Depth First Search (DFS), Union-Find & Kruskal, Binary Lifting & Lowest Common Ancestor. Problem link: [https://codeforces.com/problemset/problem/609/E](https://codeforces.com/problemset/problem/609/E)
+- [Codeforces E. Minimum spanning tree for each edge.cpp](Codeforces%20E.%20Minimum%20spanning%20tree%20for%20each%20edge.cpp): Depth First Search (DFS), Union-Find & Kruskal, Binary Lifting & Lowest Common Ancestor (LCA). Problem link: [https://codeforces.com/problemset/problem/609/E](https://codeforces.com/problemset/problem/609/E)
 
-- [Longest Common Subsequence.cpp](Longest%20Common%20Subsequence.cpp): Dynamic Programming
+- [Longest Common Subsequence.cpp](Longest%20Common%20Subsequence.cpp): Dynamic Programming (DP)
 
 - [Minimum to make Palindrome.cpp](Minimum%20to%20make%20Palindrome.cpp): Rabin Karp
 
@@ -19,7 +19,7 @@ Info about the problems:
 
 - [SPOJ DQUERY.cpp](SPOJ%20DQUERY.cpp): Square Root Decomposition. Problem link: [https://www.spoj.com/problems/DQUERY/](https://www.spoj.com/problems/DQUERY/)
 
-- [SPOJ DRTREE.cpp](SPOJ%20DRTREE.cpp): Depth First Search (DFS), Binary Lifting & Lowest Common Acnestor. Problem link: [https://www.spoj.com/problems/DRTREE/](https://www.spoj.com/problems/DRTREE/)
+- [SPOJ DRTREE.cpp](SPOJ%20DRTREE.cpp): Depth First Search (DFS), Binary Lifting & Lowest Common Acnestor (LCA). Problem link: [https://www.spoj.com/problems/DRTREE/](https://www.spoj.com/problems/DRTREE/)
 
 - [SPOJ FREQUENT.cpp](SPOJ%20FREQUENT.cpp): Segment Tree. Problem link: [https://www.spoj.com/problems/FREQUENT/](https://www.spoj.com/problems/FREQUENT/)
 
@@ -33,6 +33,6 @@ Info about the problems:
 
 - [SPOJ MAXSUMSU.cpp](SPOJ%20MAXSUMSU.cpp): Kadane's Algorithm. Problem link: [https://www.spoj.com/problems/MAXSUMSU/](https://www.spoj.com/problems/MAXSUMSU/)
 
-- [SPOJ PARTY.cpp](SPOJ%20PARTY.cpp): Dynamic Programming. Problem link: [https://www.spoj.com/problems/PARTY/](https://www.spoj.com/problems/PARTY/)
+- [SPOJ PARTY.cpp](SPOJ%20PARTY.cpp): Dynamic Programming (DP). Problem link: [https://www.spoj.com/problems/PARTY/](https://www.spoj.com/problems/PARTY/)
 
 - [SPOJ XORX.cpp](SPOJ%20XORX.cpp): Trie, Bits. Problem link: [https://www.spoj.com/problems/XORX/](https://www.spoj.com/problems/XORX/)
