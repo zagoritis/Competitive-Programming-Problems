@@ -1,7 +1,7 @@
 # Compeitive-Programming-Problems
 Solutions to some selected competitive programming problems of either online judges or contests.
 
-Info about the problems:
+<u>Info about the problems:</u>
 
 - [Codeforces D. Tree and Queries.cpp](Codeforces%20D.%20Tree%20and%20Queries.cpp): Depth First Search (DFS), Tree Linearization, Square Root Decomposition. Problem link: [https://codeforces.com/problemset/problem/375/D](https://codeforces.com/problemset/problem/375/D)
 
