@@ -1,4 +1,4 @@
-# Competitive Programming Problems
+# Competitive Programming Solutions
 Solutions to selected competitive programming problems from various online judges and contests.
 
 **Information for each problem:**
