@@ -1,5 +1,5 @@
 # Competitive Programming Problems
-Solutions to some selected competitive programming problems of either online judges or contests.
+Solutions to selected competitive programming problems from various online judges and contests.
 
 **Information for each problem:**
 
